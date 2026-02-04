@@ -31,3 +31,7 @@ The PowerPoint presentation included in this repository demonstrates how insight
 - Ability to work with real-world sales data
 - Clear communication of insights to non-technical audiences
 - Practical experience using Excel for business analysis
+
+  📌 Note: The presentation opens in GitHub’s PDF viewer and may appear zoomed in. 
+It is best viewed by downloading the file.
+
